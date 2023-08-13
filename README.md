@@ -1,4 +1,4 @@
-# Automator for PowerToys Run
+# Automate for PowerToys Run
 
 Automation Integration Plugin for PowerToys Run. Simply invoke the command `AI` followed by a PowerAutomate Workflow Name or Workflow ID. AutoIt and AHK Integration are future planned features.
 
