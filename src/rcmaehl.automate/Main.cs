@@ -10,9 +10,9 @@ namespace skttl.Guid
         private string IconPath { get; set; }
 
         private PluginInitContext Context { get; set; }
-        public string Name => "Guid";
+        public string Name => "Automation Intregration";
 
-        public string Description => "Guid Generator";
+        public string Description => "PowerAutomate Integration";
 
         public List<Result> Query(Query query)
         {
@@ -56,11 +56,11 @@ namespace skttl.Guid
         {
             if (theme == Theme.Light || theme == Theme.HighContrastWhite)
             {
-                IconPath = "images/guid.light.png";
+                IconPath = "images/automate.light.png";
             }
             else
             {
-                IconPath = "images/guid.dark.png";
+                IconPath = "images/automate.dark.png";
             }
         }
 

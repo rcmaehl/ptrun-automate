@@ -1,0 +1,14 @@
+{
+  "ID": "EF1F634F20484459A3679B4FE7B07997",
+  "Disabled": false,
+  "ActionKeyword": "AI",
+  "Name": "Automation Integration",
+  "Author": "rcmaehl",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/rcmaehl/ptrun-automate",
+  "ExecuteFileName": "rcmaehl.automate.dll",
+  "IsGlobal": false,
+  "IcoPathDark": "images\\automate.dark.png",
+  "IcoPathLight": "images\\automate.light.png"
+}
