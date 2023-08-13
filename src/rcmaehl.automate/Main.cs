@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Windows.Forms;
 using Wox.Plugin;
 
-namespace skttl.Guid
+namespace rcmaehl.automate
 {
     public class Main : IPlugin
     {
