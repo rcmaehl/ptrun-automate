@@ -16,4 +16,4 @@ Open up PowerToys Run, and type the command `AI`. The generator will generate a 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-LGPL
+[MIT](https://github.com/rcmaehl/ptrun-automate/blob/main/LICENSE)
